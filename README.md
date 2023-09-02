@@ -3,4 +3,4 @@
 
 ![Github stars](https://img.shields.io/github/stars/DevOpen-Club/Tlt-Oj-APP.svg)
 ![lang](https://img.shields.io/badge/语言-Python-green)
-![version](https://img.shields.io/badge/发行版本-0.1+0-orange)
+![version](https://img.shields.io/badge/发行版本-0.1+1-orange)
